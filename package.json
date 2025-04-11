@@ -1,10 +1,10 @@
 {
-	"name": "await-lazy-properties",
+	"name": "all-properties-lazy",
 	"version": "0.1.0",
 	"description": "Evalutes the properties of an object, including functions, Promises, and their combination. 😴",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JoshuaKGoldberg/await-lazy-properties.git"
+		"url": "git+https://github.com/JoshuaKGoldberg/all-properties-lazy.git"
 	},
 	"license": "MIT",
 	"author": {
@@ -46,7 +46,7 @@
 		"@vitest/coverage-v8": "3.1.1",
 		"@vitest/eslint-plugin": "1.1.38",
 		"console-fail-test": "0.5.0",
-		"create-typescript-app": "2.26.5",
+		"create-typescript-app": "2.29.3",
 		"cspell": "8.18.0",
 		"eslint": "9.23.0",
 		"eslint-plugin-jsdoc": "50.6.8",
