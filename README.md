@@ -1,7 +1,7 @@
 <h1 align="center">All Properties Lazy</h1>
 
 <p align="center">
-	Evalutes the properties of an object, including functions, Promises, and their combination.
+	Evaluates the properties of an object, including functions, Promises, and their combination.
 	😴
 </p>
 

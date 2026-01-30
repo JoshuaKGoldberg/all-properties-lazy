@@ -1,7 +1,7 @@
 {
 	"name": "all-properties-lazy",
 	"version": "0.1.0",
-	"description": "Evalutes the properties of an object, including functions, Promises, and their combination. 😴",
+	"description": "Evaluates the properties of an object, including functions, Promises, and their combination. 😴",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/JoshuaKGoldberg/all-properties-lazy.git"
