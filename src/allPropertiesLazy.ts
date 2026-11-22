@@ -1,6 +1,6 @@
 import { withoutUndefinedProperties } from "without-undefined-properties";
 
-import { AwaitedLazyProperties } from "./types.js";
+import { AwaitedLazyProperties } from "./types.ts";
 
 export async function allPropertiesLazy<T extends object>(
 	source: T,

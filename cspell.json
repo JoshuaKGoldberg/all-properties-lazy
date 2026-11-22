@@ -2,9 +2,9 @@
 	"dictionaries": ["npm", "node", "typescript"],
 	"ignorePaths": [
 		".all-contributorsrc",
-		".github",
 		"CHANGELOG.md",
 		"coverage",
+		"dist",
 		"lib",
 		"node_modules",
 		"pnpm-lock.yaml"
@@ -12,7 +12,10 @@
 	"words": [
 		"10.4.0",
 		"Await",
+		"JoshuaKGoldberg",
+		"MatteoGabriele",
 		"access",
+		"agentscan",
 		"all-properties-lazy",
 		"apexskier",
 		"automerge",
@@ -23,14 +26,20 @@
 		"everything",
 		"joshuakgoldberg",
 		"markdownlintignore",
+		"mshick",
+		"octoguide",
 		"packageData",
+		"peakoss",
 		"pnpm",
 		"preset",
 		"public",
 		"repository",
 		"scripts",
+		"stefanzweifel",
 		"title",
 		"tseslint",
-		"usage"
+		"usage",
+		"zizmor",
+		"zizmorcore"
 	]
 }
