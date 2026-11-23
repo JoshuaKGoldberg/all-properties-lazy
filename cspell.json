@@ -6,7 +6,6 @@
 		"CHANGELOG.md",
 		"coverage",
 		"dist",
-		"lib",
 		"node_modules",
 		"pnpm-lock.yaml"
 	],
@@ -25,8 +24,6 @@
 		"devDependencies",
 		"directory",
 		"everything",
-		"joshuakgoldberg",
-		"markdownlintignore",
 		"mshick",
 		"octoguide",
 		"packageData",
