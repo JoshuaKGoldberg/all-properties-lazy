@@ -1,8 +1,8 @@
 import { describe, expect, it } from "vitest";
 
-import { allPropertiesLazy } from "./allPropertiesLazy.js";
+import { allPropertiesLazy } from "./allPropertiesLazy.ts";
 
-describe("allPropertiesLazy", () => {
+describe(allPropertiesLazy, () => {
 	it("returns a property directly when it is not a function", async () => {
 		const actual = await allPropertiesLazy({ value: "abc" });
 

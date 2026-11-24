@@ -1,2 +1,2 @@
-export * from "./allPropertiesLazy.js";
-export * from "./types.js";
+export * from "./allPropertiesLazy.ts";
+export * from "./types.ts";
